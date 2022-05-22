@@ -1,0 +1,93 @@
+body {
+    background-image: url("https://thumbs.dreamstime.com/b/board-background-design-classics-style-creative-48706836.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.container1 {
+    margin: 100px;
+}
+
+.container {
+    text-align: center;
+}
+
+.header {
+    font-family: 'Smooch', cursive;
+}
+
+.inputs {
+    margin: 2%;
+    
+}
+
+.input1{
+    border-radius: 5px;
+    background-color: aqua;
+    
+    
+}
+
+.btn {
+    background-color: yellow;
+  border-radius: 5px;
+  color: black;
+  padding: 16px 32px;
+  text-align: center;
+  
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+.btn1:hover{
+    background-color: green; 
+  color: white; 
+  
+}
+
+td {
+    padding: 20px;
+    margin: 0%;
+}
+
+table,
+th,
+td {
+    border: 1px solid blueviolet;
+    border-collapse: collapse;
+}
+
+table {
+    margin: 20px;
+    text-align: center;
+}
+
+thead,
+tr,
+td,
+.tableH {
+    background-color: rgb(207, 207, 207);
+
+}
+
+
+.tbl1 {
+    margin: auto;
+    padding: auto;
+    width: 80%;
+}
+
+
+.deleteBtn {
+    background-color: red;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
